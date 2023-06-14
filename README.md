@@ -4,7 +4,7 @@
 
 - Privacy & Security > Advanced > Logout after 15 minutes
 - Lock Screen
-  - 20, 20, Never, Immediately
+  - 20, 20, 1, Immediately
 
 ## Mount Network Drives
 
